@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Alejandro Debus",
+    "label": "Machine Learning Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "aledebus@gmail.com",
+    "phone": "",
+    "url": "https://alejandrodebus.github.io/",
+    "summary": "A passionate machine learning engineer with experience in a wide range of areas within this fascinating field.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Argentina",
+      "countryCode": "AR",
+      "region": ""
     },
     "profiles": [
       {
@@ -24,46 +24,80 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Kueski",
+      "position": "  L3 Machine Learning Engineer",
+      "url": "https://kueskipay.com",
+      "startDate": "24-02-01",
+      "endDate": "-",
+      "summary": "Machine learning",
+      "highlights": ["IA", "Machine Learning", "MLOps"]
+    },
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Kueski",
+      "position": "  L2 Machine Learning Engineer",
+      "url": "https://kueskipay.com",
+      "startDate": "21-08-23",
+      "endDate": "24-01-31",
+      "summary": "Machine learning",
+      "highlights": ["IA", "Machine Learning", "MLOps"]
+    },
+    {
+      "name": "Universidad de Buenos Aires",
+      "position": "  Professor @ Deep Learning Course",
+      "url": "https://kueskipay.com",
+      "startDate": "21-10-01",
+      "endDate": "22-12-31",
+      "summary": "Deep learning",
+      "highlights": []
+    },
+    {
+      "name": "Mercado Libre",
+      "position": "  Sr Data Scientist",
+      "url": "https://mercadolibre.com",
+      "startDate": "20-06-03",
+      "endDate": "21-08-06",
+      "summary": "Machine learning",
+      "highlights": ["IA", "Machine Learning", "MLOps"]
+    },
+    {
+      "name": "Mercado Libre",
+      "position": "  Ssr Data Scientist",
+      "url": "https://mercadolibre.com",
+      "startDate": "19-06-03",
+      "endDate": "20-08-31",
+      "summary": "Machine learning",
+      "highlights": ["IA", "Machine Learning", "MLOps"]
+    },
+    {
+      "name": "Eiwa",
+      "position": "Data Scientist",
+      "url": "https://eiwa.ag",
+      "startDate": "18-11-18",
+      "endDate": "19-05-31",
+      "summary": "Machine learning",
+      "highlights": ["IA", "Machine Learning", "Computer vision"]
+    },
+    {
+      "name": "Serfe",
+      "position": "Web Developer",
+      "url": "https://serfe.com",
+      "startDate": "18-11-18",
+      "endDate": "19-05-31",
+      "summary": "Machine learning",
+      "highlights": ["IA", "Machine Learning", "Computer vision"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
+      "institution": "Universidad Nacional del Litoral",
+      "location": "Santa Fe, Argentina",
+      "url": "https://www.fich.unl.edu.ar",
+      "area": "Informatics Engineering",
+      "studyType": "Eng",
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "courses": ["Calculus", "Linear Algrebra", "Programming", "Statistics", "Physics", "Computational Intelligence", "Digital Signal Processing", "Digital Image Processing", "Computational Mechanics", "Computer Graphics", "Networks", "Robotics"]
     }
   ],
   "certificates": [
@@ -150,7 +184,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Spanish",
       "fluency": "Native speaker",
       "icon": ""
     },
