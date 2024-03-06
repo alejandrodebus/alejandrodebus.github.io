@@ -2,11 +2,19 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses and technical talks.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Universidad de Buenos Aires - Professor @ Deep Learning Course
 
-Organize your courses by years, topics, or universities, however you like!
+From 2021-10-01 to 2022-12-31
+
+I was a professor of the practical classes of a postgraduate course in Deep Learning. I was responsible for designing and teaching the practical classes, the practical homework assignments and resolving extra-class student doubts.
+Topics covered are:
+- Introduction to Python.
+- Introduction to machine learning.
+- Convolutional Neural Networks (CNN).
+- Recurrent Neural Networks (RNN).
+- Graph Neural Networks (GNN).
