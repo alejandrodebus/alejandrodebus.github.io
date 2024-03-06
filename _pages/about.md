@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 I'm Alejandro Debus, a passionate machine learning engineer with experience in a wide range of areas within this fascinating field.
 
-With strong expertise in data science and practical experience in machine learning problems, from computer vision and natural language processing to credit modeling, I can offer innovative and efficient solutions across various disciplines, including deep learning, reinforcement learning, and computer vision.
+With a strong background in data science and hands-on experience in machine learning challenges, ranging from computer vision and natural language processing to credit modeling, I offer innovative and efficient solutions across various domains, including deep learning and reinforcement learning in fintech, ecommerce, agtech, IT, education, and other industries.
 
 Furthermore, my experience in MLOps and data engineering enables me to implement and maintain machine learning models in production effectively and at scale.
 
